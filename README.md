@@ -15,7 +15,7 @@ Calculated ADR, Realisation %, and RevPAR to assess revenue performance.
 
 
 ## Questions (KPIs)
--To get the total revenue_realized
+To get the total revenue_realized
 -To get the total number of bookings happened
 -To get the total capacity of rooms present in hotels
 -To get the total succesful bookings happened for all hotels
@@ -55,7 +55,7 @@ bookings happened
 
 -The dashboard enabled data-driven strategies that improved revenue visibility, highlighted high-risk no-show patterns, and optimized room pricing and promotion timing.
 
-###Key areas for business improvement include:
+Key areas for business improvement include:
 
 -Enhancing customer reliability via pre-confirmation nudges or incentives
 
